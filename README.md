@@ -1,2 +1,2 @@
 ﻿# AsureDeployWorkshop
-# [Deployed On Azure](net22workshop.azurewebsites.net)
+# [Deployed On Azure](https://net22workshop.azurewebsites.net/)
