@@ -1,0 +1,7 @@
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\AzureWorkshopDeploy.exe
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\AzureWorkshopDeploy.dll
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\AzureWorkshopDeploy.deps.json
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\AzureWorkshopDeploy.runtimeconfig.json
+D:\src\schoolProj\AzureWorkshopDeploy\AzureWorkshopDeploy\obj\Release\net6.0\PubTmp\Out\AzureWorkshopDeploy.pdb
